@@ -5,7 +5,7 @@ import { BsArrowRight } from 'react-icons/bs';
 import { motion } from 'framer-motion';
 
 // variants
-import { fadeIn } from '../../variants';
+import { fadeIn } from './variants';
 
 const Contact = () => {
   return (
